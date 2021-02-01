@@ -1,16 +1,13 @@
-### Hi there 👋
+### Oh hello! 👋
 
-<!--
-**heyjulesb/heyjulesb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Julie. I'm also known as Jules. 😊
 
-Here are some ideas to get you started:
+👩🏻‍💻 - I've been self studying since May 2020, learning HTML, CSS, JavaScript and Ruby. <br>
+🥳 - I have completed the four weeks Introduction into Web Development and Python Programming intensive courses with CodeFirstGirls. <br>
+💎 - I have also passed the Learn Ruby module with Codecademy. <br>
+🌱 - I've been doing coding challenges on Codewars to help improve my coding/debugging skills. Here is my profile: https://www.codewars.com/users/heyjules/
+💬 - Besides from learning to code, I'm also a self-professed food fanatic and I have a huge interest on beauty and skincare! <br>
+📫 - How to reach me: heyjulesb@icloud.com <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✎ - I’m currently working on the Leeds Trinity University Reboot Digital Coding Course <br>
+💻 - This course covers the basics of Front-End Web Development from understanding the basics of the internet, the world wide web to HTML, CSS, JavaScript and development tools including Git, GitHub and Visual Studio Code.
