@@ -10,4 +10,4 @@ My name is Julie. I'm also known as Jules. 😊
 📫 - How to reach me: julie.luu.jl@googlemail.com <br>
 
 ✎ - I’m currently working on the Leeds Trinity University Reboot Digital Coding Course. <br>
-💻 - This course covers the basics of Front-End Web Development from understanding the basics of the internet, the world wide web to HTML, CSS, JavaScript and development tools including Git, GitHub and Visual Studio Code.
+💻 - This course covers the basics of Front-End Web Development from understanding the basics of the Internet, the world wide web to HTML, CSS, JavaScript and development tools including Git, GitHub and Visual Studio Code.
