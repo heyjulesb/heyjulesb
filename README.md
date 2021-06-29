@@ -10,4 +10,4 @@ My name is Julie. I'm also known as Jules. 😊
 💬 - Besides from learning to code, I'm also a self-professed food fanatic and I have a huge interest in beauty and skincare! <br>
 📫 - How to reach me: julie.luu.jl@googlemail.com <br>
 
-👩🏻‍💻 - Software Stream Nanodegree Student with Code First Girls Summer 2021 Cohort.
+👩🏻‍💻 - Software Stream Nanodegree Student (Summer 2021 Cohort) with Code First Girls.
