@@ -3,11 +3,8 @@
 My name is Julie. I'm also known as Jules. 😊
 
 👩🏻‍💻 - I've been self studying since June 2020, learning HTML, CSS, JavaScript and Ruby. <br>
-🥳 - I have completed the four weeks Introduction into Web Development and Python Programming intensive courses with Code First Girls. <br>
-✎ - I’ve sucessfully completed the Leeds Trinity University Reboot Digital Coding Course. <br>
-💻 - The course covered the basics of Front-End Web Development, learning HTML, CSS, JavaScript and development tools including Git, GitHub and Visual Studio Code. <br>
-🌱 - I've been doing coding challenges on Codewars to help improve my coding/debugging skills. Here is my profile: https://www.codewars.com/users/heyjules/ <br>
+👩🏻‍🎓 - I've completed the Introduction into Web Development and Python Programming courses with Code First: Girls and also the [re]boot Digital Coding course with Leeds Trinity University. <br>
+☀️ - This summer I graduated from the Software Specialisation Nanodegree with Code First: Girls.<br>
+📚 - It was a 12 weeks intensive coding course specialising in Python, with a strong focus on solving real world problems through problem-based learning. Topics included: Object-Oriented Programming, Algorithm Design, Libraries, Data Structures, API and Debugging. <br>
 💬 - Besides from learning to code, I'm also a self-professed food fanatic and I have a huge interest in beauty and skincare! <br>
 📫 - How to reach me: julie.luu.jl@googlemail.com <br>
-
-👩🏻‍💻 - Software Stream Nanodegree Student (Summer 2021 Cohort) with Code First Girls.
