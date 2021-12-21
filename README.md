@@ -1,6 +1,6 @@
 ### Oh hello! 👋
 
-My name is Julie. I'm also known as Jules. 😊
+My name is Jules. 😊
 
 👩🏻‍💻 - I've been self studying since June 2020, learning HTML, CSS, JavaScript and Ruby. <br>
 👩🏻‍🎓 - I've completed the Introduction into Web Development and Python Programming courses with Code First: Girls and also the [re]boot Digital Coding course with Leeds Trinity University. <br>
