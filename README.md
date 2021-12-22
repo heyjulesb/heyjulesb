@@ -3,7 +3,7 @@
 My name is Jules. 😊
 
 💬 - I've been self studying since June 2020, learning HTML, CSS, JavaScript and Ruby. <br>
-📚 - I've completed the following courses:
+📚 - I've completed the following courses: <br>
       ⭐️ - Introduction into Web Development (Code First: Girls) <br>
       ⭐️ - Introudction into Python Programming courses (Code First: Girls) <br>
       ⭐️ - [re]boot Digital Coding course (Leeds Trinity University) <br>
