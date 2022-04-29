@@ -1,4 +1,4 @@
-### Oh hello! 👋
+### 哈囉 (hello)! 👋
 
 My name is Jules. 😊
 
